@@ -1,4 +1,9 @@
-## BÁO CÁO THỰC NGHIỆM/BÀI TẬP LỜN: VIẾT THẾ NÀO CHO ĐÚNG?
+## BÁO CÁO THỰC NGHIỆM/BÀI TẬP LỚN: VIẾT THẾ NÀO CHO ĐÚNG? 
+
+### CẬP NHẬT 6/2025
+- SỬa Khoa CNTT -> Trường Công nghệ thông tin và Truyền thông
+- Sửa lỗi tham chiếu mục lục hình và bảng
+- Chuyển vị trí Lời cảm ơn
 
 ### 📝 TEMPLATE BÁO CÁO LÀ GÌ
 Template báo cáo là một tệp Word mà mình đã thiết lập sẵn tất cả các **Style** cần thiết cho việc viết báo cáo, bao gồm:
